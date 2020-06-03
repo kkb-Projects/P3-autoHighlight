@@ -1,1 +1,2 @@
-# P3-autoHighlight
+# P3-auto-highlight
+ 
